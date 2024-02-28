@@ -1,0 +1,6 @@
+[submodule "Docker_Projects"]
+	path = Docker_Projects
+	url = https://github.com/nangareashu29/Docker_Projects.git
+[submodule "docker-projects"]
+	path = docker-projects
+	url = https://github.com/nangareashu29/Docker_Projects.git
