@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 # Get base image with python 3.9
 # -------------------- Stage1-----------------------------
 FROM python:3.9 AS backend-builder 
+=======
+FROM python:3.9
+>>>>>>> origin/master
 
 RUN apt-get update -y 
 # Copy the source code to the workdir in container
